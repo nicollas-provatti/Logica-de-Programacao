@@ -51,5 +51,33 @@ Lanne é uma funcionária dedicada e seu chefe prometeu-lhe um bônus especial d
 ### 📤 Saída:  
 ALEMNANHA
 
+---
+
+## 📌Questão 3 Descrição:
+Dados três números em ponto flutuante queremos saber quantos deles estão acima da média aritmética.
+
+---
+
+## 📥 Formato de Entrada
+- Três números positivos, menores ou iguais a 10.0 e com dois decimais, no máximo.
+
+## 📤 Formato de Saída
+- A quantidade dos que estão acima da média.
+
+---
+
+## 📌 Exemplos  
+
+### 🖥️ Entrada:  
+2.0
+9.0
+10.0
+### 📤 Saída:  
+2
+
+---
+
+
+
 
 
