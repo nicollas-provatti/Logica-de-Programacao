@@ -32,7 +32,8 @@ nao eleitor
 
 ---
 
-## 📌Questão 2 - Descrição:
+## 📌Questão 2 - Bônus de Viagem
+## Descrição
 Lanne é uma funcionária dedicada e seu chefe prometeu-lhe um bônus especial de 75% de seu salário no fim do ano. Ela decidiu usar o dinheiro para fazer uma viagem, mas a escolha do destino dependerá do valor do bônus. Caso ela receba menos de R$ 2000, ela irá conhecer a Argentina. Já se o bônus for entre R$ 2000 e R$ 3000, ela irá para a Espanha. Se o bônus ganho for maior que R$ 3000, ela realizará o sonho de conhecer a Alemanha. Escreva um programa que receba como entrada o salário de Lanne e exiba o nome do país que ela irá conhecer.
 
 ---
@@ -54,7 +55,8 @@ ALEMNANHA
 
 ---
 
-## 📌Questão 3 - Descrição:
+## 📌Questão 3 - Acima da média
+## Descrição
 Dados três números reais queremos saber quantos deles estão acima da média aritmética.
 
 ---
@@ -78,7 +80,8 @@ Dados três números reais queremos saber quantos deles estão acima da média a
 
 ---
 
-## 📌Questão 4 - Descrição:
+## 📌Questão 4 - Acidez de uma solução
+## Descrição
 Escreva um programa que leia o valor do índice de acidez (pH) de uma solução e informe se ela é ácida, básica ou neutra.
 A solução é ácida quando o pH é menor que 7
 A solução é básica quando o pH é maior que 7
@@ -109,7 +112,8 @@ Basica
 
 ---
 
-## 📌Questão 5 - Descrição:
+## 📌Questão 5 - Classificando notas
+## Descrição
 Uma escola, ao divulgar a média dos seus alunos, decidiu incluir uma bolinha colorida ao lado da média. A regra ficou assim:
 - notas maiores que 7, "bolinha verde";
 - notas entre 5 e 7 (inclusive), "bolinha amarela";
