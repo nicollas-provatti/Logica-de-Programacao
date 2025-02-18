@@ -24,7 +24,5 @@ Faça um programa que leia a idade (valor inteiro) de uma pessoa e informe sua c
 
 ## 📌 Exemplos  
 
-### 🖥️ Entrada  
-1
-### 📤 Saída  
-nao eleitor
+### 🖥️ Entrada:  1
+### 📤 Saída:  nao eleitor
