@@ -135,11 +135,11 @@ O seu programa, deve ler uma nota e classificá-la de acordo com a regra acima.
 ### 🖥️ Entrada:  
 5.66
 ### 📤 Saída:  
-Acida
+bolinha amarela
 ### 🖥️ Entrada:  
-11.46
+9.45
 ### 📤 Saída:  
-Basica
+bolinha verde
 
 ---
 
