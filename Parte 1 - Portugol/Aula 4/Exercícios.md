@@ -17,13 +17,13 @@ Faça um programa que imprima todos os números ímpares entre dois números dad
 ## 📌 Exemplos  
 
 ### 🖥️ Entrada:  
-5
-12
+5  
+12  
 ### 📤 Saída:  
-5
-7
-9
-11
+5  
+7  
+9  
+11  
 
 ---
 
@@ -167,12 +167,12 @@ Dado um número Y, imprima quantas vezes Y aparece em uma sequência.
 
 ### 🖥️ Entrada:  
 5 (Valor de X)    
-7 (Valor de Y)
-1
-3
-5
-7
-9
+7 (Valor de Y)  
+1  
+3  
+5  
+7  
+9  
 ### 📤 Saída:  
 1
 
