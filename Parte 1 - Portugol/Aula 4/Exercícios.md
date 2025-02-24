@@ -166,8 +166,8 @@ Dado um número Y, imprima quantas vezes Y aparece em uma sequência.
 ## 📌 Exemplos  
 
 ### 🖥️ Entrada:  
-5 (Valor de X)
-7 (Valor de Y)
+- 5 (Valor de X)
+- 7 (Valor de Y)
 1
 3
 5
