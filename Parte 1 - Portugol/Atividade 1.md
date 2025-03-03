@@ -10,7 +10,7 @@ Vários números inteiros.
 Um valor real com duas casas decimais, seguido por uma quebra de linha e um valor inteiro.
 
 ### Exemplo de entrada
-  4 
+  4   
   3
   2 
   3 
