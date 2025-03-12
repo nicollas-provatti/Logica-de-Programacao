@@ -93,7 +93,7 @@ programa {
         escreva("2 elevado a 3 é: ", resultado, "\n")
 
         real raiz
-        raiz = mat.raiz_quadrada(16) // Raiz de 16 é 4
+        raiz = mat.raiz(16, 2) // Raiz de 16 é 4
         escreva("A raiz quadrada de 16 é: ", raiz, "\n")
     }
 }
@@ -103,7 +103,7 @@ programa {
 
 - inclua biblioteca Matematica --> mat → Importa funções matemáticas.
 - mat.potencia(base, expoente) → Calcula potência.
-- mat.raiz_quadrada(x) → Retorna a raiz quadrada.
+- mat.raiz(x, y) → Retorna a raiz especificada por y.
 
 ---
 
