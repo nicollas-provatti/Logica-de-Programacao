@@ -6,7 +6,7 @@
 Fernanda está organizando um projeto de extensão e precisa selecionar alunos com base no Coeficiente de Rendimento Escolar (CRE). Escreva um programa que permita a ela inserir a matrícula e o CRE de vários candidatos e, ao final, exiba a matrícula do aluno com o menor CRE e a média dos CREs de todos os inscritos.
 
 ### 📌 Entrada:
-- A **matrícula** (cadeia) e o **CRE** (real) de cada candidato.
+- A **matrícula** (inteiro) e o **CRE** (real) de cada candidato.
 - A entrada de dados deve parar quando for informada a matrícula **999.**
 
 ### 📌 Saída:
