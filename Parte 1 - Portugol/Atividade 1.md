@@ -1,9 +1,3 @@
-<style>
-  body {
-    background-color: lightgray;
-  }
-</style>
-
 # Questão 1 - Abaixo a poluição
 
 ## Descrição
