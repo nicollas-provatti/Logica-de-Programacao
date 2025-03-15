@@ -144,7 +144,7 @@ Crie um programa que tenha uma única função, além da principal, que receber�
 **Dica:** Para "pegar" um digito de um número use: % 10. Por exemplo:
 ```portugol
 int numero = 123
-int digito = numero % 10 // retorno 3, pois o resto da divisão de 123 por 10 é 3.
+int digito = numero % 10 // retorna 3, pois o resto da divisão de 123 por 10 é 3.
 ```
 
 ### 📌 Entrada:
