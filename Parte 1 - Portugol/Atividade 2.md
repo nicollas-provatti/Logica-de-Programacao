@@ -140,7 +140,12 @@ Luíz Carlos é um carteiro dedicado e recebeu a meta de entregar pelo menos 100
 
 ### 📖 Descrição:
 
-Crie um programa que tenha uma única função, além da principal, que receberá como parâmetro um natural n (0<=n<=2^30) e devolverá a quantidade de dígitos de n. O programa exibirá o retorno da função.
+Crie um programa que tenha uma única função, além da principal, que receberá como parâmetro um natural n (0<=n<=2^30) e devolverá a quantidade de dígitos de n. O programa exibirá o retorno da função.  
+**Dica:** Para "pegar" um digito de um número use: % 10. Por exemplo:
+```portugol
+int numero = 123
+int digito = numero % 10 // retorno 3, pois o resto da divisão de 123 por 10 é 3.
+```
 
 ### 📌 Entrada:
 - Um número inteiro
