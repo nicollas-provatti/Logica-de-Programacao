@@ -146,6 +146,10 @@ Crie um programa que tenha uma única função, além da principal, que receber�
 inteiro numero = 123
 inteiro digito = numero % 10 // retorna 3, pois o resto da divisão de 123 por 10 é 3.
 ```
+Para essa questão, depois que você pegar o útlimo dígito será necessário atualizar o valor de numero. Por exemplo:
+```portugol
+numero = numero / 10 // Agora, numero será 12
+```
 
 ### 📌 Entrada:
 - Um número inteiro
