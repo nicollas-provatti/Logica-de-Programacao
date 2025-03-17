@@ -43,3 +43,33 @@ A soma dos 5 primeiros naturais é 15
 
 --- 
 
+4️⃣ Produto recursivo
+
+## Descrição:
+Crie uma função recursiva que recebe dois números a e b e retorna o produto de a por b usando apenas somas.
+
+## Exemplo de saída esperada:
+
+### Entrada:
+```
+3  
+4
+```
+
+### Saída:
+```
+12 // O mesmo que: 3 + 3 + 3 + 3
+```
+---
+
+5️⃣ Verificação recursiva
+
+## Descrição:
+Escreva um programa recursivo que permita ao usuário digitar uma sequência de números inteiros. O programa deve contar e exibir:
+
+- Quantos números são **pares**.
+- Quantos números são **ímpares**.
+- Quantos números são **positivos**.
+- Quantos números são **negativos**.
+
+A entrada dos números termina quando o usuário digitar 0.
