@@ -43,7 +43,7 @@ A soma dos 5 primeiros naturais é 15
 
 --- 
 
-4️⃣ Produto recursivo
+# 4️⃣ Produto recursivo
 
 ## Descrição:
 Crie uma função recursiva que recebe dois números a e b e retorna o produto de a por b usando apenas somas.
@@ -62,7 +62,7 @@ Crie uma função recursiva que recebe dois números a e b e retorna o produto d
 ```
 ---
 
-5️⃣ Verificação recursiva
+# 5️⃣ Verificação recursiva
 
 ## Descrição:
 Escreva um programa recursivo que permita ao usuário digitar uma sequência de números inteiros. O programa deve contar e exibir:
