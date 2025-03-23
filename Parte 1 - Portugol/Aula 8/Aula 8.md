@@ -7,7 +7,7 @@ Uma **matriz** é uma estrutura de dados bidimensional, ou seja, ela pode ser vi
 **🔹 Analogia:**  
 Imagine uma **planilha** do Excel. Cada célula da planilha pode ser acessada pela combinação do número da linha e da coluna, como se fosse uma tabela com várias linhas e colunas.   
 
-![Texto](https://userdir.luzerna.ifc.edu.br/~marcelocendron/tutoriais/linguagem_c/04/imagens/matriz.png](https://userdir.luzerna.ifc.edu.br/~marcelocendron/tutoriais/linguagem_c/04/imagens/matriz.png) "Matriz")
+![Texto](https://userdir.luzerna.ifc.edu.br/~marcelocendron/tutoriais/linguagem_c/04/imagens/matriz.png](https://userdir.luzerna.ifc.edu.br/~marcelocendron/tutoriais/linguagem_c/04/imagens/matriz.png "Matriz")
 ---
 
 
