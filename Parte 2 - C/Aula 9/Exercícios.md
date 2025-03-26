@@ -7,7 +7,11 @@
 📝**Descrição:** Escreva um programa que solicite ao usuário uma temperatura em graus Celsius e a converta para Fahrenheit usando a fórmula:
 
 
-$ F = \left(C \times \frac{5}{9} + 32\right) $
+$$
+
+F = \left(C \times \frac{5}{9} + 32\right)
+
+$$
 
 
 **Entrada:**
