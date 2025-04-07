@@ -1,6 +1,6 @@
 # 🏦 Projeto: Sistema Bancário Simples
 ## 📌 Descrição
-O sistema permitirá que um banco gerencie contas de clientes, possibilitando operações básicas como cadastro, depósitos, saques e transferências.
+O sistema permitirá que um banco gerencie contas de clientes, possibilitando operações básicas como cadastro, depósitos e saques.
 
 Cada conta terá as seguintes informações:
 - Nome do Cliente (`string`)
