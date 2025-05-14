@@ -60,7 +60,7 @@ Opção 2: Opção Exibir Contas selecionada.
 Opção 3: Opção Depositar selecionada.
 Opção 4: Opção Sacar selecionada.
 Opção 5: Opção Buscar Conta selecionada.
-Outros opções: Opção inválida. Tente novamente.
+Outras opções: Opção inválida. Tente novamente.
 ```
 
 <br>
