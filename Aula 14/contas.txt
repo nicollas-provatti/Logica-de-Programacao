@@ -3,4 +3,3 @@
 1003,Beatriz Melo,0,00
 1004,João Silva,890,00
 1005,Larissa Costa,230,00
-1006,Joao Gomes,500,00
