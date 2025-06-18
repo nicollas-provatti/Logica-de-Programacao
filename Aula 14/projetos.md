@@ -53,7 +53,7 @@ typedef struct {
 7. Exibir alunos aprovados e reprovados.
 8. Salvar e carregar dados dos alunos de/para um arquivo texto.
 
---
+---
 
 ## Projeto 3: Sistema de Controle de Vendas
 **Objetivo:** Gerenciar vendas de produtos, controlando quantidade, preço e total de cada venda.
